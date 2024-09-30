@@ -1,0 +1,1 @@
+The Employee Salary Management System is a simple console-based application that allows you to manage employee details, calculate salaries, and perform basic operations like adding employees, viewing employee details, and calculating salaries based on different employee types.
